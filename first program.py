@@ -1,4 +1,6 @@
 name = input("Enter the name")
 age = int(input("Enter the age"))
+place = input("where are you from?")
 print(f"my name is {name}")
 print(f"my age is {age}")
+print(f"i from {place} ")
